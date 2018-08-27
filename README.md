@@ -6,13 +6,13 @@
 
 ## 如何安装？（此下有两种方法）
 
-- `npm i -g f-cli `
-- `npm i -g f`
+- `npm i -g l-cli `
+- `npm i -g l`
 
 ## 如何构建项目？（此下有两种方法）
 
-- `f-cli init <project name>`
-- `f init <project name>`
+- `l-cli init <project name>`
+- `l init <project name>`
 
 
 ## git

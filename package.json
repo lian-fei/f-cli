@@ -1,0 +1,24 @@
+{
+  "name": "f-cli",
+  "version": "1.0.0",
+  "description": "vue template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "f-cli": "./bin/index.js",
+    "f": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.1.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  }
+}

@@ -13,3 +13,8 @@
 
 - `f-cli init <project name>`
 - `f init <project name>`
+
+
+## git
+https://github.com/lian-fei/f-cli.git
+

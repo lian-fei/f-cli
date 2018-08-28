@@ -1,6 +1,6 @@
 {
   "name": "lf-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "vue template",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lian-fei/l-cli.git"
+    "url": "https://github.com/lian-fei/lf-cli.git"
   },
   "bin": {
-    "l-cli": "./bin/index.js",
-    "l": "./bin/index.js"
+    "lf-cli": "./bin/index.js",
+    "lf": "./bin/index.js"
   },
+  "keywords": [
+    "vue cli",
+    "vue webpack"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {

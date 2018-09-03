@@ -37,7 +37,7 @@ program
             const spinner = ora('正在下载模版...') 
             spinner.start()
 
-            downloadGitRepo('https://github.com:lian-fei/template#master', name, { clone: true }, (err) => {
+            downloadGitRepo('https://github.com:lian-fei/default-template#master', name, { clone: true }, (err) => {
                 if (!err) {
                     // 下载成功...
                     spinner.succeed()

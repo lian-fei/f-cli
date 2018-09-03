@@ -15,8 +15,12 @@
     "lf": "./bin/index.js"
   },
   "keywords": [
-    "vue cli",
-    "vue webpack"
+    "vue",
+    "cli",
+    "webpack4",
+    "less",
+    "sass",
+    "scss"
   ],
   "author": "",
   "license": "ISC",
